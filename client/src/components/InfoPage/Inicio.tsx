@@ -15,7 +15,7 @@ function Inicio() {
           }}
         ></div>
 
-        <div className="w-full h-full absolute flex flex-col justify-start text-white font-thin font-lato text-2xl text-justify p-2">
+        <div className="w-full h-full absolute flex flex-col justify-start text-white font-light font-lato text-2xl text-justify p-2">
           <span>
             <b>Kaos</b> es una experiencia gastronómica exclusiva, donde cada
             semana ofrecemos una cena para 20 comensales. El menú, definido unos
